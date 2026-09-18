@@ -71,17 +71,9 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/Ritiksen04/Ritiksen04/output/github-snake-dark.svg">
 
-    <source media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/Ritiksen04/Ritiksen04/output/github-snake.svg">
+<img src="https://raw.githubusercontent.com/Ritiksen04/Ritiksen04/output/github-snake.svg" alt="GitHub Contribution Snake" width="90%">
 
-    <img src="https://raw.githubusercontent.com/Ritiksen04/Ritiksen04/output/github-snake.svg"
-         alt="GitHub Contribution Graph"
-         width="90%">
-  </picture>
 </div>
 
 <br/>
