@@ -96,7 +96,7 @@
 
 <div align="center">
 
-<img src="./output/github-snake.svg"
+<img src="./output/github-snake.yml"
      alt="GitHub Contribution Snake"
      width="90%"/>
 
