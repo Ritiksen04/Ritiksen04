@@ -68,16 +68,6 @@
 
 <br/>
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Ritik's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ritiksen04&bg_color=0d1117&color=ff2d55&line=00bfff&point=ffffff&area=true&hide_border=true&custom_title=Ritik%20Sen%20-%20Contribution%20Graph)
-
-</div>
-
-<br/>
-
 ## 🏆 Spider-Verse Achievements
 
 <div align="center">
