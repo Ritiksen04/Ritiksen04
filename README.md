@@ -71,11 +71,17 @@
 ## 📈 Contribution Graph
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/Ritiksen04/Ritiksen04/output/github-snake-dark.svg">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ritiksen04&bg_color=0d1117&color=f8fafc&line=e11d48&point=38bdf8&area=true&area_color=e11d48&hide_border=true&custom_title=Spider-Man%20Contribution%20Graph"
-     alt="GitHub Contribution Graph"
-     width="90%"/>
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/Ritiksen04/Ritiksen04/output/github-snake.svg">
 
+    <img src="https://raw.githubusercontent.com/Ritiksen04/Ritiksen04/output/github-snake.svg"
+         alt="GitHub Contribution Graph"
+         width="90%">
+  </picture>
 </div>
 
 <br/>
