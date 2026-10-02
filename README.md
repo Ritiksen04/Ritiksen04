@@ -28,7 +28,7 @@
 | 🏋️ **FitTrack** | `Python` `Django` `Docker` | 🚀 |
 | 🤖 **AI Chatbot** | `Python` `Streamlit` `Gemini API` | 🧠 |
 | ❄️ **Snowfall Prediction** | `Python` `ML` `Random Forest` | ❄️ |
-| ♟️ **Sunfish Chess Game** | `Python` `Chess Engine` | ♟️ |
+| ♟️ **Vibranium Chess Game** | `Python` `Chess Engine` | ♟️ |
 
 > 🕸️ *Code • Learn • Build • Repeat.*
 
